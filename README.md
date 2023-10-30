@@ -31,12 +31,14 @@ Rode o script que está na pasta ```/src```  com: ```python3 scr/speed-test.py``
 
 ### 4.1 Fotos
 
-![alt text](./content/painel01.png)
 ![alt text](./content/rasp.jpeg)
+![alt text](./content/painel01.png)
+![alt text](./content/painel02.png)
+
 
 ### 4.2 Vídeo
 
-> Será gravado em breve
+> https://youtu.be/_QF-7n6ZhTI
 
 ## 5. Integrantes
 
