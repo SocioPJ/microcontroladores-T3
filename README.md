@@ -33,7 +33,7 @@ Rode o script que está na pasta ```/src```  com: ```python3 scr/speed-test.py``
 
 ![alt text](./content/rasp.jpeg)
 ![alt text](./content/painel01.png)
-![alt text](./content/painel02.png)
+![alt text](./content/painel02.jpeg)
 
 
 ### 4.2 Vídeo
