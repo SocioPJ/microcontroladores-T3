@@ -38,7 +38,7 @@ Rode o script que está na pasta ```/src```  com: ```python3 scr/speed-test.py``
 
 ### 4.2 Vídeo
 
-> https://youtu.be/_QF-7n6ZhTI
+https://youtu.be/_QF-7n6ZhTI
 
 ## 5. Integrantes
 
