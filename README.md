@@ -11,8 +11,7 @@ Este projeto depende das seguintes bibliotecas:
 - requests
 - speedtest-cli
 
-Também é preciso fazer uma conta no https://ubidots.com/ e criar seu Dashboard como este:
-![Dashboard](https://i.imgur.com/LhY6l9u.png)
+Também é preciso gerar um token no ![Ubidots](https://ubidots.com/) depois de criar sua conta.
 
 ## 3. Como rodar
 
@@ -24,7 +23,7 @@ pip3 install speedtest-cli requests
 
 ### 3.2 Rodar o script
 
-Rode o script que está na pasta ```/src```  com: ```python3 scr/.py```
+Rode o script que está na pasta ```/src```  com: ```python3 scr/speed-test.py```
 
 ## 4. Demostração do projeto
 
