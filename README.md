@@ -18,8 +18,12 @@ Este projeto depende das seguintes bibliotecas:
 ``` 
 pip3 install speedtest-cli requests
 ```
+### 3.2 Ubidots
 
-### 3.2 Rodar o script
+- Crie uma conta no Ubidots.
+- Crie um dashboard que tenha indicadores para Download, Upload e Ping.
+- Pegue o token gerado para a sua conta e substitua na URL dentro do código ```speed-test.py```
+### 3.3 Rodar o script
 
 Rode o script que está na pasta ```/src```  com: ```python3 scr/speed-test.py```
 
