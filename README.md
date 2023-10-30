@@ -1,7 +1,7 @@
 
 ## 1. Introdução
 
-Com o objetivo de utilizar o Raspberry Pi, foi desenvolvido um software para medir a velocidade da internet conectada ao Raspberry e projetar os valores obtidos no dashboard gratuito do Ubidots.
+Com o objetivo de utilizar o Raspberry Pi, foi desenvolvido um software para medir a velocidade da internet conectada ao Raspberry e projetar os valores obtidos no dashboard do Ubidots.
 
 ## 2. Dependências
 
@@ -10,8 +10,6 @@ Este projeto depende das seguintes bibliotecas:
 - Python >= 3.5
 - requests
 - speedtest-cli
-
-Também é preciso gerar um token no https://ubidots.com/ depois de criar sua conta.
 
 ## 3. Como rodar
 
@@ -33,6 +31,7 @@ Rode o script que está na pasta ```/src```  com: ```python3 scr/speed-test.py``
 
 ### 4.2 Vídeo
 
+> Não foi possível gravar um vídeo mostrando o funcionamento pois a plataforma do Ubidots está com algum problema
 
 ## 5. Integrantes
 
