@@ -11,15 +11,14 @@ Este projeto depende das seguintes bibliotecas:
 - requests
 - speedtest-cli
 
-Também é preciso fazer uma conta no ![https://ubidots.com/]
+Também é preciso fazer uma conta no https://ubidots.com/
 
 ## 3. Como rodar
 
 ### 3.1 Instalar dependências
 
 ``` 
-pip3 install speedtest-cli
-
+pip3 install speedtest-cli requests
 ```
 
 ### 3.2 Rodar o script
