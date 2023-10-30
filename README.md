@@ -11,7 +11,7 @@ Este projeto depende das seguintes bibliotecas:
 - requests
 - speedtest-cli
 
-Também é preciso gerar um token no ![Ubidots](https://ubidots.com/) depois de criar sua conta.
+Também é preciso gerar um token no https://ubidots.com/ depois de criar sua conta.
 
 ## 3. Como rodar
 
