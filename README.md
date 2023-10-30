@@ -11,7 +11,8 @@ Este projeto depende das seguintes bibliotecas:
 - requests
 - speedtest-cli
 
-Também é preciso fazer uma conta no https://ubidots.com/
+Também é preciso fazer uma conta no https://ubidots.com/ e criar seu Dashboard como este:
+![Dashboard](https://i.imgur.com/LhY6l9u.png)
 
 ## 3. Como rodar
 
